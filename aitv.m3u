@@ -407,8 +407,8 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8?cc
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NzRlYjIwNjMtMjkwZS0zMTY5LTg0ZDMtZGE1ZjRkNTRmMjVj
 http://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/${start}/${offset}", ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 group-title="🟡 KÊNH THỂ THAO" tvg-id="vtvcab6hd" tvg-logo="https://i.ibb.co/DzBRYMz/VTVCAB6.png", VTVcab6 | On Sports+ HD
+https://api.vthanhtivi.pw/v1/getlink/vtvgo/196							
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🟡 KÊNH THỂ THAO" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
