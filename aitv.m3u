@@ -621,12 +621,30 @@ https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3
 lifestyle" group-title="⚪ KÊNH QUỐC TẾ", tvg-logo="https://i.ibb.co/HDTd5sj/bbclifestyle.png" catchup="append" catchup-days="3" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8?cc",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="bbcworldnews" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8?cc
+
+#EXTINF:-1 group-title="⚪ KÊNH QUỐC TẾ",BBC One
+http://live-sg.cvacetv.ga:8080/stream/channelid/291261982
+
+#EXTINF:-1 group-title="⚪ KÊNH QUỐC TẾ",BBC Two
+http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
+
+#EXTINF:-1 group-title="⚪ KÊNH QUỐC TẾ",BBC Red Button
+http://live-sg.cvacetv.ga:8080/stream/channelid/429607131
+
+#EXTINF:-1 group-title="⚪ KÊNH QUỐC TẾ",ITV
+http://live-sg.cvacetv.ga:8080/stream/channelid/1589619535
+
+#EXTINF:-1 group-title="⚪ KÊNH QUỐC TẾ",FreeSports
+http://live-sg.cvacetv.ga:8080/stream/channelid/1316613517
+
 #EXTINF:0 tvg-id="cnn" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/PwrKBwy/cnn.webp",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="cna" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/NTKgPfv/cna.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?cc
@@ -635,55 +653,72 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:0 tvg-id="france24eng" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zfH3LG4/France24-cc.png",France24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="nhkworld" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/51Mscnp/NHKWorld-cc.webp",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="kbsworld" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Dz3Vtqd/KBSWorld-cc.png",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0  tvg-id="arirang" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/09JHvmY/arirang.png",Ariang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="abcaustralia" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yRTh6nf/Australia.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="bloomberg" group-title="⚪ KÊNH QUỐC TẾ", tvg-logo="https://i.ibb.co/W5cZHZz/Bloomberg.png",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="cnbc" group-title="⚪ KÊNH QUỐC TẾ", tvg-logo="https://i.ibb.co/PjtT8bq/2560px-CNBC.png",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 tvg-id="dw" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/4dm1QtB/dw.png",DW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8?cc
+
 #EXTINF:0 tvg-id="tv5monde" group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Js5d6Bc/tv5.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ", tvg-logo="https://i.ibb.co/f9thdzn/oan.webp",OAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Xs82Wcm/Smithsonian.png",Smithsonian Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/vsfZxbw/nasa.png",Nasa TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/zVLjLkQ/love-nature.png",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/QrbrpZj/Love-Nature4-K-cc.png",Love Nature ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/CWYnvBt/Bloomberg4-K-cc.png",Bloomberg ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8?cc
 #https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/hCsqbBT/FTV4K-cc.png",FashionTV ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/hHFBv1G/Clarity-cc.png",Clarity ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8?cc
+
 #EXTINF:0 group-title="⚪ KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/y49ghHm/Loupe-cc.png",Loupe ⁴ᵏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8?cc
@@ -1054,26 +1089,6 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1960404843
 #EXTINF:-1 group-title="⚽ SETANTA SPORTS",Setanta Sports UA Plus
 http://live-sg.cvacetv.ga:8080/stream/channelid/1142662226
 
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",CANAL+
-http://live-sg.cvacetv.ga:8080/stream/channelid/707747584
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",CANAL+SPORT
-http://live-sg.cvacetv.ga:8080/stream/channelid/572874308
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",CANAL+SPORT360
-http://live-sg.cvacetv.ga:8080/stream/channelid/2021660949
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",CANAL+FOOT
-http://live-sg.cvacetv.ga:8080/stream/channelid/1199362025
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1939791921
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/1757056325
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/347502729
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS MAX 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/223187494
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS MAX 5
-http://live-sg.cvacetv.ga:8080/stream/channelid/1986591044
-#EXTINF:-1 group-title="⚽ CANAL+ & BEIN SPORTS - PHÁP",BEIN SPORTS MAX 6
-http://live-sg.cvacetv.ga:8080/stream/channelid/1898167137
 #EXTINF:-1 group-title="⚽ MATCH TV - NGA",Маtch ТV
 http://live-sg.cvacetv.ga:8080/stream/channelid/107945303
 #EXTINF:-1 group-title="⚽ MATCH TV - NGA",Маtch Futbol 1
@@ -1084,12 +1099,14 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1662401069
 http://live-sg.cvacetv.ga:8080/stream/channelid/1390830944
 #EXTINF:-1 group-title="⚽ MATCH TV - NGA",Маtch Premier
 http://live-sg.cvacetv.ga:8080/stream/channelid/423519327
+
 #EXTINF:-1 group-title="⚽ SPORT TV - BỒ ĐÀO NHA",Sport TV 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/41445934
 #EXTINF:-1 group-title="⚽ SPORT TV - BỒ ĐÀO NHA",Sport TV 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/215681414
 #EXTINF:-1 group-title="⚽ SPORT TV - BỒ ĐÀO NHA",Sport TV 3
 http://live-sg.cvacetv.ga:8080/stream/channelid/206227262
+
 #EXTINF:-1 group-title="⚽ ELEVEN SPORT - BA LAN",Eleven Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1164104878
 #EXTINF:-1 group-title="⚽ ELEVEN SPORT - BA LAN",Eleven Sports 2
@@ -1098,6 +1115,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/363553794
 http://live-sg.cvacetv.ga:8080/stream/channelid/1916682652
 #EXTINF:-1 group-title="⚽ ELEVEN SPORT - BA LAN",Eleven Sports 4
 http://live-sg.cvacetv.ga:8080/stream/channelid/1997102389
+
 #EXTINF:-1 group-title="⚽ CANAL SPORT - BA LAN",Canal+ Sport 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/667827158
 #EXTINF:-1 group-title="⚽ CANAL SPORT - BA LAN",Canal+ Sport 2
@@ -1108,10 +1126,12 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/460381727
 http://live-sg.cvacetv.ga:8080/stream/channelid/1597852864
 #EXTINF:-1 group-title="⚽ CANAL SPORT - BA LAN",Canal+ Family
 http://live-sg.cvacetv.ga:8080/stream/channelid/2089467015
+
 #EXTINF:-1 group-title="⚽ DIGI SPORT - ROMANIA",Digi Sport 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1243853844
 #EXTINF:-1 group-title="⚽ DIGI SPORT - ROMANIA",Digi Sport 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/709759450
+
 #EXTINF:-1 group-title="⚽ POLSAT SPORT - BA LAN",Polsat Sport Premium 1
 http://live-vn.cvacetv.ga:8080/PolsatPre1
 #EXTINF:-1 group-title="⚽ POLSAT SPORT - BA LAN",Polsat Sport Premium 2
@@ -1128,29 +1148,31 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1728834750
 http://live-sg.cvacetv.ga:8080/stream/channelid/1232474037
 #EXTINF:-1 group-title="⚽ POLSAT SPORT - BA LAN",Fightbox
 http://live-sg.cvacetv.ga:8080/stream/channelid/1312535801
+
 #EXTINF:-1 group-title="⚽ EUROSPORT",Eurosport 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/705108665
 #EXTINF:-1 group-title="⚽ EUROSPORT",Eurosport 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/253989575
-#EXTINF:-1 group-title="⚽ EUROSPORT",Eurosport 4K
-http://live-vn.cvacetv.ga:8080/ES4K
 
 #EXTINF:-1 group-title="⚽ DIEMA SPORT",DIEMA SPORT 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/209843431
 #EXTINF:-1 group-title="⚽ DIEMA SPORT",DIEMA SPORT 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/1803112988
+
 #EXTINF:-1 group-title="⚽ MAX SPORT - BULGARIA",MAX Sport 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/583669987
 #EXTINF:-1 group-title="⚽ MAX SPORT - BULGARIA",MAX Sport 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/661336891
 #EXTINF:-1 group-title="⚽ MAX SPORT - BULGARIA",MAX Sport 3
 http://live-sg.cvacetv.ga:8080/stream/channelid/232533697
+
 #EXTINF:-1 group-title="⚽ ARENA SPORT",Arena 1 Premium
 http://live-sg.cvacetv.ga:8080/stream/channelid/905903997
 #EXTINF:-1 group-title="⚽ ARENA SPORT",Arena 2 Premium
 http://live-sg.cvacetv.ga:8080/stream/channelid/1886869704
 #EXTINF:-1 group-title="⚽ ARENA SPORT",Arena 3 Premium
 http://live-sg.cvacetv.ga:8080/stream/channelid/766998928
+
 #EXTINF:-1 group-title="⚽ SPORT KLUB",Sport Klub 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1781997823
 #EXTINF:-1 group-title="⚽ SPORT KLUB",Sport Klub 2
@@ -1163,6 +1185,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1996565253
 http://live-sg.cvacetv.ga:8080/stream/channelid/1486877286
 #EXTINF:-1 group-title="⚽ SPORT KLUB",Sport Klub 6
 http://live-sg.cvacetv.ga:8080/stream/channelid/1384205527
+
 #EXTINF:-1 group-title="⚽ THỂ THAO MỸ",ESPN US
 http://live-vn.cvacetv.ga:9981/stream/channelid/1363922654
 #EXTINF:-1 group-title="⚽ THỂ THAO MỸ",ESPN2 US
@@ -1177,6 +1200,7 @@ http://live-vn.cvacetv.ga:8080/FS1
 http://live-vn.cvacetv.ga:8080/FS2
 #EXTINF:-1 group-title="⚽ THỂ THAO MỸ",TNT HD
 http://live-vn.cvacetv.ga:8080/TNT
+
 #EXTINF:-1 group-title="⚽ ESPN NAM MỸ",ESPN Mexico
 http://live-vn.cvacetv.ga:9981/stream/channelid/601009722
 #EXTINF:-1 group-title="⚽ ESPN NAM MỸ",ESPN2 Mexico
@@ -1191,36 +1215,7 @@ http://live-vn.cvacetv.ga:9981/stream/channelid/692654039
 http://live-vn.cvacetv.ga:9981/stream/channelid/699583609
 #EXTINF:-1 group-title="⚽ ESPN NAM MỸ",ESPN3 Argentina
 http://live-vn.cvacetv.ga:9981/stream/channelid/1736423595
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ANH",BBC One
-http://live-sg.cvacetv.ga:8080/stream/channelid/291261982
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ANH",BBC Two
-http://live-sg.cvacetv.ga:8080/stream/channelid/247454318
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ANH",BBC Red Button
-http://live-sg.cvacetv.ga:8080/stream/channelid/429607131
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ANH",ITV
-http://live-sg.cvacetv.ga:8080/stream/channelid/1589619535
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ANH",FreeSports
-http://live-sg.cvacetv.ga:8080/stream/channelid/1316613517
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",10 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/944362278
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",10 Bold
-http://live-vn.cvacetv.ga:9981/stream/channelid/740854633
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",7 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/546601414
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",9 HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/1761146754
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",9Gem HD
-http://live-vn.cvacetv.ga:9981/stream/channelid/196530261
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ÚC",SBS One
-http://live-vn.cvacetv.ga:9981/stream/channelid/57280988
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ĐỨC",Das Erste
-http://live-sg.cvacetv.ga:8080/stream/channelid/1510136576
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ĐỨC",ZDF HD
-http://live-sg.cvacetv.ga:8080/stream/channelid/1698305413
-#EXTINF:-1 group-title="⚽ KÊNH QUẢNG BÁ - ĐỨC",RTL HD
-http://live-sg.cvacetv.ga:8080/stream/channelid/1595062913
-#EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",CBC Sport Azerbaijan
-http://live-sg.cvacetv.ga:8080/stream/channelid/723766645
+
 #EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",bTV Action
 http://live-sg.cvacetv.ga:8080/stream/channelid/16687240
 #EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",Canal 11
