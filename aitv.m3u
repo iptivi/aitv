@@ -1224,3 +1224,9 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1588036987
 http://live-sg.cvacetv.ga:8080/stream/channelid/1072743056
 #EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",PTV Sports Pakistan
 http://live-vn.cvacetv.ga:9981/stream/channelid/1664862898
+#EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",Movistar LC
+http://live-vn.cvacetv.ga:8080/LC
+#EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",Movistar LaLiga
+http://live-vn.cvacetv.ga:8080/LaLiga
+#EXTINF:-1 group-title="⚽ THỂ THAO KHÁC",SCTV Indonesia
+http://live-vn.cvacetv.ga:8080/SCTV
